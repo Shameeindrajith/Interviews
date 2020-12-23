@@ -1,2 +1,4 @@
 I tried to my best connect react UI and data base. but I can not do that.
 So i used HTML,PHP for this one. I attached react UI(only ui)
+
+index file is the main file
